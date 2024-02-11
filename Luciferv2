@@ -1,0 +1,38 @@
+hargapack = 2000
+namapack = "world_lock"
+MinItemPack = 2
+maxbuy = 10
+iditempack = {242}
+TimeRelogBotMatung = 10 --JIKA TIDAK ADA AKTIVITAS SELAMA 7 MENIT, AUTO RELOG
+
+DurasiWorldPNB = 240 --BERAPA MENIT AGAR BOTNYA GANTI WORLD
+
+ControlViaDC = true
+DelayRecon = 15000 --JEDA RECONNECT
+
+---===== COCOK UNTUK EVENT! =====---
+SpecialItem = {5030,5036,7162,5024,882,1406,7164,5748,5742,5746} --ITEM YANG INGIN DIAMANKAN KE WORLD, COCOK UNTUK EVENT!
+minSpec = 50 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
+WorldSpec = "SULPO7"
+idWorldSpec = "SEDI99"
+ID_AcuanDrop_Spec = 3 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
+WebhookSpec = "https://discord.com/api/webhooks/1203394857025151036/U5y48ELYe7zVaXJAnGdcz4EIfZkAhWRSbRIf5qPbbRnI0C92hfshxCfHFytVaPbjBoU8"
+HookIDSpec = "1203394954488184953"
+ID_AcuanDrop_Spec = 3 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
+ShowSpecInfo = true
+
+ControlViaDC = true
+JedaHW = 20 --Bot Berhenti Reconnect Selama 20 Menit Ketika Hardwarp
+AbaikanTile = {242, 226} --ARTINYA BOT TIDAK AKAN PLANTING DIATAS WL DAN SIGNAL JAMMER
+TilePNB = 5 --BOTNYA AKAN BREAK 5 TILES
+
+---===== EMOJI =====---
+emot_bot = "<:kitten:1077495938161049610>"
+emot_gems = "<:gemz:1038591118331359343>"
+emot_pack = "<:ssp:1111897895415848980>"
+emot_world = "<a:Arrow:1091357145821347860>"
+emot_pickaxe = "<:pickaxegyrogold:1025472230970359829>"
+emot_wl = "<:Wls:1035853986554724363>"
+emot_rank = ":medal:"
+emot_tas = "<:bplol:1105835654279082085>"
+emot_computer = ":computer:"
