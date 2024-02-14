@@ -1,9 +1,9 @@
-hargapack = 2000
-namapack = "world_lock"
-MinItemPack = 2
+hargapack = 7500
+namapack = "valentines"
+MinItemPack = 1
 maxbuy = 10
-iditempack = {242}
-TimeRelogBotMatung = 10 --JIKA TIDAK ADA AKTIVITAS SELAMA 7 MENIT, AUTO RELOG
+iditempack = {3402, 5664}
+TimeRelogBotMatung = 8 --JIKA TIDAK ADA AKTIVITAS SELAMA 7 MENIT, AUTO RELOG
 
 DurasiWorldPNB = 240 --BERAPA MENIT AGAR BOTNYA GANTI WORLD
 
