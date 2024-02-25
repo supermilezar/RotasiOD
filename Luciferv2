@@ -1,8 +1,8 @@
-hargapack = 5000
-namapack = "crime_wave"
+hargapack = 2000
+namapack = "world_lock"
 MinItemPack = 1
 maxbuy = 3
-iditempack = {2382,2380,2322,2326,2328,2320,2324,2336,2340,2338,2332,2334,2296,2292,2294,2298,2300,2314,2312,2310,2308,2316}
+iditempack = {242}
 TimeRelogBotMatung = 8 --JIKA TIDAK ADA AKTIVITAS SELAMA 7 MENIT, AUTO RELOG
 WebhookPack = "https://discord.com/api/webhooks/1115290046707269763/AMA6ZG0732SUItj_V8bIJMCuosl_6btf9PmXe8Rgsl7kCGfvgsaTJjV1NO5bMZgMYrUA" 
 HookIDPack = "1115290112301989968" --ID HOOK PACK
